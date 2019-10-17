@@ -1,6 +1,6 @@
 #cuda and python path
 cuda_path=/usr/local/cuda-10.0
-py_path=/root/anaconda3/envs/env/bin/python2.7
+py_path=/usr/lib/python2.7
 
 # build evaluation metric
 cd lib/external_ops/evaluation_metric
